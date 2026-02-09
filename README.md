@@ -25,22 +25,10 @@ Test the C Program for the desired output.
 
 ## C Program to create new process using Linux API system calls fork() and getpid() , getppid() and to print process ID and parent Process ID using Linux API system calls
 
-
-
-
-
-
-
-
-
-
-
-
-
 ##OUTPUT
 
 
-
+<img width="432" height="166" alt="image" src="https://github.com/user-attachments/assets/1ab78575-390a-4fea-89fd-3aab93deddfe" />
 
 
 
@@ -48,46 +36,8 @@ Test the C Program for the desired output.
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##OUTPUT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="548" height="241" alt="image" src="https://github.com/user-attachments/assets/218206fe-397a-409c-94ea-7f717f7fbd0d" />
 
 
 
